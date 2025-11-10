@@ -19,3 +19,10 @@ python -m venv .venv
 >section
 >
 >
+
+_italique_
+**gras**
+**_gras-italique_**
+~~barré~~
+
+En apprendre plus sur [Simplon](https://www.simplon.co/data-ia/developpeur-ia)
