@@ -26,3 +26,5 @@ _italique_
 ~~barré~~
 
 En apprendre plus sur [Simplon](https://www.simplon.co/data-ia/developpeur-ia)
+
+![Poussin généré par IA](https://cdn.pixabay.com/photo/2024/03/16/20/35/ai-generated-8637800_1280.jpg)
